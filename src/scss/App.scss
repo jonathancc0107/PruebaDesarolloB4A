@@ -1,0 +1,30 @@
+$navbar-background-color: rgb(54, 54, 54);
+
+$navbar-dropdown-background-color: rgb(54, 54, 54);
+
+$navbar-item-color: white;
+
+$navbar-item-hover-color: white;
+
+$navbar-dropdown-item-hover-color: white;
+
+$navbar-dropdown-item-hover-background-color: black;
+
+// $navbar-burger-color: black;
+
+$navbar-item-hover-background-color: rgb(46, 45, 45);
+.navbar-item h3.title.is-3 {
+    color: white;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+@import '../../node_modules/bulma/bulma.sass';
+@import './helpers/helpers';
+
+
+
